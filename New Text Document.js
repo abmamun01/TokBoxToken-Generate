@@ -1,6 +1,6 @@
 // Set the following constants with the API key and API secret
 // that you receive when you sign up to use the OpenTok API:
-var opentok = new OpenTok(API_KEY, API_SECRET);
+var opentok = new OpenTok("47632071", "0b962007058492c7a13d096cad18621c461dad14");
 
 //Generate a basic session. Or you could use an existing session ID.
 var sessionId;
